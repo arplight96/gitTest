@@ -1,0 +1,12 @@
+.Footer {
+  background-color: var(--footerBg);
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Footer h1 {
+  color: white;
+  font-weight: 700;
+  font-size: var(--fontHero);
+}
